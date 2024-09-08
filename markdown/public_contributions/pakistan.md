@@ -165,7 +165,7 @@ There are `995 users`  in Pakistan. You need at least `42 followers` to be on th
 			Ossama Mehmood 샘
 		</td>
 		<td>Sole Proprietorship & Founder<br/>At<br/>@minimsam<br/>&<br/>Top<br/>Rated<br/>Designer<br/>At<br/>@upwork<br/></td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/ossamamehmood">ossamamehmood</a></td>
 		<td>Islamabad, Pakistan</td>
 		<td>2487</td>
 	</tr>
